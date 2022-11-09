@@ -16,7 +16,4 @@ public class App {
     public static void main(String[] args) {
         DangNhapForm.runLogin();
     } 
-    public class a{
-        
-    }
 }
