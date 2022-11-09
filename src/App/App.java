@@ -19,4 +19,8 @@ public class App {
     public static void haha(){
         System.out.println("App.App.haha()");
     }
+    
+    public class aaa{
+        
+    }
 }
