@@ -15,4 +15,5 @@ public class CuaHangController {
     public static ArrayList<CuaHangModel> listCuaHang() {
         return CuaHangModel.getListCuaHang();
     }
+
 }

@@ -16,4 +16,7 @@ public class App {
     public static void main(String[] args) {
         DangNhapForm.runLogin();
     }
+    public static void haha(){
+        System.out.println("App.App.haha()");
+    }
 }
